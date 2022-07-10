@@ -5,12 +5,12 @@ This is Weekly Challenge 18 to build an API for a social network web application
 Built API's for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list
 
 ## Languages Used
-Javascript
-Express.js
+Javascript  
+Express.js  
 
 ## Application and Packages
-Mongoose
-MongoDB
+Mongoose  
+MongoDB  
 
 ## User Story
 
